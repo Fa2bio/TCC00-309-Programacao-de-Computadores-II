@@ -30,7 +30,6 @@ https://www.urionlinejudge.com.br/judge/pt/homeworks/view/6030
 ## <a name="technologies"></a>Technologies Used
 
 - Java
-- Java Swing
 
 ## <a name="installation"></a>Installation
 
