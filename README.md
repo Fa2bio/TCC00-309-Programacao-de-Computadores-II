@@ -21,7 +21,7 @@ This directory has three projects that are the resolutions of the following exer
 https://www.urionlinejudge.com.br/judge/pt/homeworks/view/6030
 
 * objectOrientation
-[Lista-Orientação.pdf](https://github.com/Fa2bio/Minesweeper-Using-Java-Swing/files/9941995/Lista-Orientacao.pdf)
+[lista.pdf](https://github.com/Fa2bio/TCC00-309-Programacao-de-Computadores-II/files/10367560/lista.pdf)
 
 ## <a name="requirements"></a>Requirements
 
